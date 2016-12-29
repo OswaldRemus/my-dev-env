@@ -7,9 +7,6 @@ This is an overview of the development environments I use. If you know another d
 - [Django](https://www.djangoproject.com/) 
 
 
-
-
-
 ### [PHP](https://secure.php.net/)
 
 - [PhpStorm](https://www.jetbrains.com/phpstorm/)
@@ -39,7 +36,7 @@ This is an overview of the development environments I use. If you know another d
 
 - [SublimeText](https://www.sublimetext.com/)
 
-### Web (HTML, Javascript ...)
+### [Web (HTML, Javascript ...)](https://www.w3.org/)
 
 - [Node.js®](https://nodejs.org/)
 - [Ansible](https://www.ansible.com/)
