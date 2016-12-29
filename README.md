@@ -10,6 +10,8 @@ This is an overview of the development environments I use. If you know another d
 ### [PHP](https://secure.php.net/)
 
 - [PhpStorm](https://www.jetbrains.com/phpstorm/)
+- [Composer](https://getcomposer.org/)
+- [Laravel](https://laravel.com/)
 
 
 ### [Java](https://www.java.com/)
@@ -32,9 +34,11 @@ This is an overview of the development environments I use. If you know another d
 - [RubyMine](https://www.jetbrains.com/ruby/)
 - [LimeText](http://limetext.org/)
 
+
 ### [Bash](https://www.gnu.org/software/bash/)
 
 - [SublimeText](https://www.sublimetext.com/)
+
 
 ### [Web (HTML, Javascript ...)](https://www.w3.org/)
 
@@ -43,6 +47,8 @@ This is an overview of the development environments I use. If you know another d
 - [vue.js](https://vuejs.org/)
 - [Ember.js](http://emberjs.com/)
 
+
 ### [Other Tools](https://awesomelists.top/)
 
 - [asciinema](https://asciinema.org/)
+
