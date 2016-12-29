@@ -40,3 +40,9 @@ This is an overview of the development environments I use. If you know another d
 
 - [Node.js®](https://nodejs.org/)
 - [Ansible](https://www.ansible.com/)
+- [vue.js](https://vuejs.org/)
+- [Ember.js](http://emberjs.com/)
+
+### [Other Tools](https://awesomelists.top/)
+
+- [asciinema](https://asciinema.org/)
