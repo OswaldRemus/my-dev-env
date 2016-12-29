@@ -17,21 +17,23 @@ This is an overview of the development environments I use. If you know another d
 
 ### [Java](https://www.java.com/)
 
+- [Android Studio](https://developer.android.com/studio/)
 
 
 ### [Go](https://golang.org/)
 
-
+- [Gogland](https://www.jetbrains.com/go/)
 
 
 ### [SQL](https://mariadb.org/)
 
-
+- [HeidiSQL](http://www.heidisql.com/)
 
 
 ### [Ruby](https://www.ruby-lang.org/)
 
-
+- [RubyMine](https://www.jetbrains.com/ruby/)
+- [LimeText](http://limetext.org/)
 
 ### [Bash](https://www.gnu.org/software/bash/)
 
@@ -40,3 +42,4 @@ This is an overview of the development environments I use. If you know another d
 ### Web (HTML, Javascript ...)
 
 - [Node.js®](https://nodejs.org/)
+- [Ansible](https://www.ansible.com/)
